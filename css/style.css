@@ -1,10 +1,14 @@
 /* Jumbotton */
 
-body {
-    min-height: 2000px;
-}
-
 .jumbotron {
     padding-top: 1rem;
     background-color: #e2edff;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
 }
